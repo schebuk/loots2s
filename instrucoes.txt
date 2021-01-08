@@ -1,0 +1,9 @@
+salve um arquivo nessa pasta chamado config.txt con as informacoes abaixo
+coloque o usuario e senha do loots e a menssagem padrao que voce configurou no site do loots
+
+{  
+   "usuario":"",
+   "senha":"",
+   "mensaggempadrao":""
+}
+
